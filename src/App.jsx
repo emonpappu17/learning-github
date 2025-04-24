@@ -17,6 +17,7 @@ function App() {
   return (
     <>
       <p>react practice</p>
+      <p>check check</p>
       {/* <input className="border" type="text" onChange={(e) => seTitle(e.target.value)} /> */}
       <form action="" onSubmit={onSubmit}>
         <label htmlFor="title">Title:</label>
