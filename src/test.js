@@ -3,8 +3,9 @@ export function name(params) {
 
 }
 export function second(params) {
-    console.log('hello world 2', params);
-
+    console.log('hello world 12', params);
 }
-////////////////////////////////////////////////////
+
+ //// now i am testing from new
+
 
